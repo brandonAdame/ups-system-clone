@@ -1,5 +1,5 @@
 # UPS system clone
-This system was developed for CSCI 3700 during Fall 2018
+This system was developed as a term project for CSCI 3700 during Fall 2018
 
 ### Purpose
 This project is developed for the purpose of simulating a UPS package tracking system
